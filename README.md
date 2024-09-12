@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dalibor Lysák
-- 👀 I’m interested in .net, C#, TypeScript, Angular, JavaScript, html 5, CSS and Sass
-- 🌱 I’m currently learning TypeScript, Angular, JavaScript, html 5, CSS and Sass
+- 👀 I’m interested in .net, C#, Python, TypeScript, Angular, JavaScript, html 5, CSS and Sass
+- 🌱 I’m currently learning Python, TypeScript, Angular, JavaScript, html 5, CSS and Sass
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lysak.dalibor@gmail.com
 
